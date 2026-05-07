@@ -10,7 +10,7 @@ Follow these steps to set up and run the project on your local machine.
 
 ### Clone the repository
 
-- git clone https://github.com/learnersurajsingh/plant-recognition.git
+- git clone https://github.com/cse-kiet/PCSE26-27.git
 
 ### Install dependencies
 
